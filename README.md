@@ -19,7 +19,6 @@ formacao:
   - MBA DevXpert .NET Full-Stack (Sirius · ext. ASU)
   - Ciência da Computação (Farias Brito)
 foco_atual:  .NET 10 · DDD/CQRS · IA aplicada ao dev
-aberto_a:    vagas remotas no Brasil e no exterior
 ```
 
 ## Stack
