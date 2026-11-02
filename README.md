@@ -33,19 +33,27 @@ foco_atual:  .NET 10 · DDD/CQRS · IA aplicada ao dev
       <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/EF_Core-68217A?style=flat-square&logo=nuget&logoColor=white" />
       <img src="https://img.shields.io/badge/Dapper-4B4B4B?style=flat-square" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/MediatR_/_CQRS-2B6CB0?style=flat-square" />
+      <img src="https://img.shields.io/badge/FluentValidation-2B6CB0?style=flat-square" />
+      <img src="https://img.shields.io/badge/OData-E4561B?style=flat-square" />
       <img src="https://img.shields.io/badge/SignalR-0078D4?style=flat-square" />
       <img src="https://img.shields.io/badge/Polly-00A3E0?style=flat-square" />
       <img src="https://img.shields.io/badge/Hangfire-6C5CE7?style=flat-square" />
       <img src="https://img.shields.io/badge/xUnit-2E7D32?style=flat-square" />
+      <img src="https://img.shields.io/badge/REST_/_SOAP-4B4B4B?style=flat-square" />
+      <img src="https://img.shields.io/badge/IdentityServer-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/JWT_/_OAuth_2.0-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <b>Front-end</b><br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
       <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -67,6 +75,7 @@ foco_atual:  .NET 10 · DDD/CQRS · IA aplicada ao dev
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
       <img src="https://img.shields.io/badge/Testcontainers-291A3F?style=flat-square" />
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -77,6 +86,9 @@ foco_atual:  .NET 10 · DDD/CQRS · IA aplicada ao dev
       <img src="https://img.shields.io/badge/SOLID-1C1C21?style=flat-square" />
       <img src="https://img.shields.io/badge/TDD-1C1C21?style=flat-square" />
       <img src="https://img.shields.io/badge/Multi--tenant-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/Repository_/_UoW-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/Strategy_/_Factory-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/DI_/_IoC-1C1C21?style=flat-square" />
     </td>
     <td valign="top">
       <b>IA aplicada</b><br/><br/>
