@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=190&section=header&text=Saulo%20Ara%C3%BAjo&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20.NET%20e%20React%20%C2%B7%2012%2B%20anos&descSize=17&descAlignY=58" width="100%" alt="Saulo Araújo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C21,55:3A1C22,100:D52B3A&height=190&section=header&text=Saulo%20Ara%C3%BAjo&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20.NET%20e%20React%20%C2%B7%2012%2B%20anos&descSize=17&descAlignY=58" width="100%" alt="Saulo Araújo" />
 
-<a href="https://www.linkedin.com/in/sauloaraujo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sauloandrade.araujo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<img src="https://komarev.com/ghpvc/?username=sauloaraujoo&style=for-the-badge&color=512BD4&label=VISITAS" alt="Visitas ao perfil" />
+<a href="https://sauloaraujo.pages.dev"><img src="https://img.shields.io/badge/Curr%C3%ADculo-D52B3A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Currículo" /></a>
+<a href="https://www.linkedin.com/in/sauloaraujo"><img src="https://img.shields.io/badge/LinkedIn-1C1C21?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sauloandrade.araujo@gmail.com"><img src="https://img.shields.io/badge/E--mail-1C1C21?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<img src="https://komarev.com/ghpvc/?username=sauloaraujoo&style=for-the-badge&color=D52B3A&label=VISITAS" alt="Visitas ao perfil" />
 
 </div>
 
@@ -71,11 +72,11 @@ foco_atual:  .NET 10 · DDD/CQRS · IA aplicada ao dev
   <tr>
     <td valign="top">
       <b>Arquitetura</b><br/><br/>
-      <img src="https://img.shields.io/badge/DDD-1F2937?style=flat-square" />
-      <img src="https://img.shields.io/badge/Clean_Code-1F2937?style=flat-square" />
-      <img src="https://img.shields.io/badge/SOLID-1F2937?style=flat-square" />
-      <img src="https://img.shields.io/badge/TDD-1F2937?style=flat-square" />
-      <img src="https://img.shields.io/badge/Multi--tenant-1F2937?style=flat-square" />
+      <img src="https://img.shields.io/badge/DDD-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/Clean_Code-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/SOLID-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/TDD-1C1C21?style=flat-square" />
+      <img src="https://img.shields.io/badge/Multi--tenant-1C1C21?style=flat-square" />
     </td>
     <td valign="top">
       <b>IA aplicada</b><br/><br/>
@@ -121,5 +122,5 @@ SaaS que concebi, desenvolvo e opero em produção — do domínio à infraestru
 Cursos na [desenvolvedor.io](https://desenvolvedor.io): Arquitetura de Software .NET · Clean Code · Testes de Software · Docker · Kubernetes · DevOps.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:512BD4&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B3A,45:3A1C22,100:1C1C21&height=100&section=footer" width="100%" />
 </div>
