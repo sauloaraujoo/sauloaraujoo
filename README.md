@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=190&section=header&text=Saulo%20Ara%C3%BAjo&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20.NET%20%26%20React%20%C2%B7%2012%2B%20anos&descSize=17&descAlignY=58" width="100%" alt="Saulo Araújo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=190&section=header&text=Saulo%20Ara%C3%BAjo&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20.NET%20e%20React%20%C2%B7%2012%2B%20anos&descSize=17&descAlignY=58" width="100%" alt="Saulo Araújo" />
 
 <a href="https://www.linkedin.com/in/sauloaraujo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sauloandrade.araujo@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
